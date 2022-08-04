@@ -1,9 +1,9 @@
 # 3D_Object_Tracking
-<img src="Cam1.jpeg"/>
-<img src="Cam2.jpeg"/>
-<img src="Cam3.jpeg"/>
-<img src="CamTable.jpeg"/>
-<img src="Lidar1.jpeg"/>
-<img src="Lidar2.jpeg"/>
-<img src="LidarTable.jpeg"/>
+<img src="Cam1.JPG"/>
+<img src="Cam2.JPG"/>
+<img src="Cam3.JPG"/>
+<img src="CamTable.JPG"/>
+<img src="Lidar1.JPG"/>
+<img src="Lidar2.JPG"/>
+<img src="LidarTable.JPG"/>
 
